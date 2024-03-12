@@ -1,0 +1,169 @@
+/* section one  */
+.section-one{
+    background-image: url(resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width:1320px;
+    height: 600px;
+    margin:auto;
+}
+.section-one-title{
+    text-align: center;
+    color:white;
+    padding-top:100px; 
+
+}
+.h-1 {
+    font-size: 24px;
+
+
+}
+.h-2{
+    font-size: 60px;
+}
+/* discount section */
+.discount{
+    text-align: center;
+}
+.discount-h1{
+    color: red;
+    font-size: 100px;
+}
+.discount-h2{
+    color: red;
+}
+.discount-h3{
+    font-size: 60px;
+}
+
+/* wealcome section */
+.wealcome{
+    display: flex;
+    margin:auto;
+    width:1320px;
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+.wealcome title{
+
+}
+.wealcome-h1{
+    color: white;
+    padding-top: 100px;
+    padding-left: 100px;
+    width: 650px;
+    font: 3em sans-serif;
+}
+.s-3-t2{
+    color: white;
+    padding-left: 100px;
+}
+.wealcome-h3{
+    color: white;
+    padding-left: 100px;
+    width: 700px;
+}
+.wealcome-btn{
+    margin-left: 100px;
+}
+.wealcome-img{
+    padding-top: 50px;
+}
+
+/* section 4 */
+.section-4{
+    margin:auto;
+    width:1320px;
+    margin-top: 100px;
+    text-align: center;
+    background:rgb(228, 212, 217);
+    height: 400px;
+    padding-top: 150px;
+}
+.s4-s1{
+    color: red;
+}
+.btn{
+    background-color: red;
+    color: aliceblue;
+    width: 150px;
+    height: 50px ;
+
+}
+
+/* offer section */
+.offer{
+    background-image: url(resources/Ellipse\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat; 
+    margin:auto;
+    width:1320px;
+    margin-top: 100px;
+    height: 400px;
+}
+.offer-title{
+    display: flex;
+}
+.offer-d1{
+    width: 400px;
+    margin-left: 50px;
+}
+.offer-d2{
+    width: 300px;
+    padding-left:550px;
+}
+.offer-h3{
+    color: red;
+}
+.offer-h1 {
+   font: 2em sans-serif;
+
+}
+.offer-hh1{
+    font: 2em sans-serif;
+    color: red;
+}
+.section-gift{
+    width:1320px;
+    margin-top: 100px;
+    margin: auto;
+}
+
+/* last section */
+.last-section{
+    width:1320px;
+    height: 400px;
+    margin-top: 100px;
+    padding-top: 100px;
+    margin:auto;
+    background-color: pink;
+}
+.last-section-title{
+    text-align: center;
+}
+.fild{
+    height: 50px ;
+}
+.fild-d1{
+    display: flex;
+
+
+    color: white;
+    text-align: center;
+
+
+}
+.icon{
+    text-align: center;
+}
+.website-div{
+    padding-left: 90%;
+}
+
+/* footer */
+
+footer{
+    margin-top: 100px;
+    background-color: black;
+    padding: 100px;
+}
